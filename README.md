@@ -74,10 +74,10 @@ Attrition is predictable, not random
 
 1) Clone the repository:
    
-                   git clone https://github.com/your-username/Employee-Attrition-Problem.git
-                   cd Employee-Attrition-Problem
+                   git clone https://github.com/Gem793/Employee-Attrition-Problem
+                   cd Employee_Attrition
 
-2) Install required dependencies:
+3) Install required dependencies:
    
                    pip install pandas numpy matplotlib seaborn scikit-learn imbalanced-learn xgboost
 
